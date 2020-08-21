@@ -18,3 +18,5 @@ video should be 360 degrees showing your head(I already included a video head.mp
 There are two files named "deleteme.txt", you need to delete them first in order to use the code.
 
 Everytime you want to create a new composite image, you must delete all the cropped and extracted frames from "frames" and "framecrop" folders.
+
+Also, you need to change the path in pixelcrop() function. I'm too lazy to do it but I might add it later. That's all for this.
